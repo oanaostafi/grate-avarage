@@ -1,0 +1,15 @@
+C:\Users\OanaLiaOstafi\Documents\GitHub\grate-avarage\GrateAvarage\bin\Debug\net6.0\GrateAvarage.exe
+C:\Users\OanaLiaOstafi\Documents\GitHub\grate-avarage\GrateAvarage\bin\Debug\net6.0\GrateAvarage.deps.json
+C:\Users\OanaLiaOstafi\Documents\GitHub\grate-avarage\GrateAvarage\bin\Debug\net6.0\GrateAvarage.runtimeconfig.json
+C:\Users\OanaLiaOstafi\Documents\GitHub\grate-avarage\GrateAvarage\bin\Debug\net6.0\GrateAvarage.dll
+C:\Users\OanaLiaOstafi\Documents\GitHub\grate-avarage\GrateAvarage\bin\Debug\net6.0\GrateAvarage.pdb
+C:\Users\OanaLiaOstafi\Documents\GitHub\grate-avarage\GrateAvarage\obj\Debug\net6.0\GrateAvarage.csproj.AssemblyReference.cache
+C:\Users\OanaLiaOstafi\Documents\GitHub\grate-avarage\GrateAvarage\obj\Debug\net6.0\GrateAvarage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OanaLiaOstafi\Documents\GitHub\grate-avarage\GrateAvarage\obj\Debug\net6.0\GrateAvarage.AssemblyInfoInputs.cache
+C:\Users\OanaLiaOstafi\Documents\GitHub\grate-avarage\GrateAvarage\obj\Debug\net6.0\GrateAvarage.AssemblyInfo.cs
+C:\Users\OanaLiaOstafi\Documents\GitHub\grate-avarage\GrateAvarage\obj\Debug\net6.0\GrateAvarage.csproj.CoreCompileInputs.cache
+C:\Users\OanaLiaOstafi\Documents\GitHub\grate-avarage\GrateAvarage\obj\Debug\net6.0\GrateAvarage.dll
+C:\Users\OanaLiaOstafi\Documents\GitHub\grate-avarage\GrateAvarage\obj\Debug\net6.0\refint\GrateAvarage.dll
+C:\Users\OanaLiaOstafi\Documents\GitHub\grate-avarage\GrateAvarage\obj\Debug\net6.0\GrateAvarage.pdb
+C:\Users\OanaLiaOstafi\Documents\GitHub\grate-avarage\GrateAvarage\obj\Debug\net6.0\GrateAvarage.genruntimeconfig.cache
+C:\Users\OanaLiaOstafi\Documents\GitHub\grate-avarage\GrateAvarage\obj\Debug\net6.0\ref\GrateAvarage.dll
